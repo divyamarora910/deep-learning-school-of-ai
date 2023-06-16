@@ -17,6 +17,8 @@ The model was at one point getting stuck at ~98.99% train and 99.1% test.
 We increased the capacity of the model by adding one final conv layer before GAP.
 We also tweaked the LR from 0.1 to 0.2.
 We also removed dropouts from layers before the transition layers.
+
+This resulted the model to learn more beyond 99% and hit the required target.
 ## Model Summary
 
 ### Model Parameter
