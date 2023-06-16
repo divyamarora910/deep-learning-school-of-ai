@@ -13,9 +13,10 @@ Parameters: 7978
 Best Train Accuracy: 99.25
 Best Test Accuracy: 99.45 (13th Epoch)
 ### Analysis:
-Finding a good LR schedule is hard. We have tried to make it effective by reducing LR by 10th after the 6th epoch.
-It did help in getting to 99.4 or faster, but the final accuracy is not more than 99.5. Possibly a good scheduler can do wonders here!
-
+The model was at one point getting stuck at ~98.99% train and 99.1% test.
+We increased the capacity of the model by adding one final conv layer before GAP.
+We also tweaked the LR from 0.1 to 0.2.
+We also removed dropouts from layers before the transition layers.
 ## Model Summary
 
 ### Model Parameter
