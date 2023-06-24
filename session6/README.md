@@ -21,3 +21,6 @@ The assignment is based on :
 - When do we stop convolutions and go ahead with a larger kernel or some other alternative (which we have not yet covered)
 - How do we know our network is not going well, comparatively, very early
 - Batch Size, and Effects of batch size
+
+## Assignments
+https://github.com/divyamarora910/deep-learning-school-of-ai/tree/main/session6/S6
