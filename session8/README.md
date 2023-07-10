@@ -28,3 +28,13 @@ Represented by class ```BatchNormNet```
 ##### Architecture Representation
 ![Screenshot 2023-07-11 at 2 03 35 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/4275fbdb-df45-4168-bedb-52997ecb7844)
               
+## Accuracies
+Logs of last 5 epochs
+### Network with Group Normalization
+
+### Network with Layer Normalization
+![Screenshot 2023-07-11 at 2 14 42 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/b340bbeb-7fbc-42ed-95ac-a3beef97f4cb)
+
+### Network with Batch Normalization
+![Screenshot 2023-07-11 at 2 14 14 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/8463c64d-0526-44fc-af68-9d4289b5c76f)
+
