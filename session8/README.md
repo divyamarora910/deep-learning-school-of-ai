@@ -14,12 +14,13 @@ This contains the models used for the above three variations
 ### Network with Group Normalization
 Represented by class ```GroupNormNet```
 ##### Architecture Representation
-![Screenshot 2023-07-11 at 2 03 57 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/138be260-412a-42e7-8224-39066a83afde)
+![Screenshot 2023-07-11 at 2 04 26 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/81b7cf5c-29ab-4c75-a27c-f0baf3af211a)
+
 
 ### Network with Layer Normalization
 Represented by class ```LayerNormNet```
 ##### Architecture Representation
-![Screenshot 2023-07-11 at 2 04 26 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/81b7cf5c-29ab-4c75-a27c-f0baf3af211a)
+![Screenshot 2023-07-11 at 2 03 57 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/138be260-412a-42e7-8224-39066a83afde)
 
 ### Network with Batch Normalization
 Represented by class ```BatchNormNet```
