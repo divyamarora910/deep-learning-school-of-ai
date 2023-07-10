@@ -31,6 +31,7 @@ Represented by class ```BatchNormNet```
 ## Accuracies
 Logs of last 5 epochs
 ### Network with Group Normalization
+![Screenshot 2023-07-11 at 2 19 26 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/041e0484-9c1a-44c0-8e94-13dc57846697)
 
 ### Network with Layer Normalization
 ![Screenshot 2023-07-11 at 2 14 42 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/b340bbeb-7fbc-42ed-95ac-a3beef97f4cb)
