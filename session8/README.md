@@ -39,3 +39,7 @@ Logs of last 5 epochs
 ### Network with Batch Normalization
 ![Screenshot 2023-07-11 at 2 14 14 AM](https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/8463c64d-0526-44fc-af68-9d4289b5c76f)
 
+## Conclusion 
+```Group Normalization``` has the highest accuracy 
+- Training:79.28%
+- Testing:75.18% 
