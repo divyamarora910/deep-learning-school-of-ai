@@ -8,8 +8,8 @@ This Session covers the following:
 - Weight updates
 - Constant vs Adaptive Learning Rates
 - SGD
-    Gradient Perturbation
-    Momentum & Nesterov Momentum
+    - Gradient Perturbation
+    - Momentum & Nesterov Momentum
 - RMSProp
 - Adam
 - Best Optimizer
