@@ -14,6 +14,6 @@ This Session covers the following:
 - Adam
 - Best Optimizer
 - LRs
-    One Cycle Policy
-    Reduce LR on Plateau
+    - One Cycle Policy
+    - Reduce LR on Plateau
 - What kind of minima do we want?
