@@ -1,6 +1,6 @@
 import albumentations as A
 from albumentations.pytorch import ToTensorV2
-
+from torchvision import datasets, transforms
 
 # Image Transforms
 means = [0.4914, 0.4822, 0.4465]
