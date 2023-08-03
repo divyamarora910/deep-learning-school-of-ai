@@ -32,3 +32,7 @@ Contains train and test utility function
 
 #### session_11(final).ipynb
 Main Notebook which clones this repo and shows the working
+
+## Model Definition
+
+<img width="531" alt="Screenshot 2023-08-03 at 4 26 59 PM" src="https://github.com/divyamarora910/deep-learning-school-of-ai/assets/22102468/e0e5adfb-799c-420c-ba7c-5dd8af9e68f0">
