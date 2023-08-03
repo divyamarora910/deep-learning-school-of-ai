@@ -18,3 +18,8 @@ This Session covers the following:
     - Reduce LR on Plateau
 - What kind of minima do we want?
 
+## Structure of files
+#### utils.py
+This has functions:
+- get_train_transforms - Transformation to be applied to training data
+- get_test_transforms - Transformation to be applied to test data
