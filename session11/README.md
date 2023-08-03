@@ -23,3 +23,12 @@ This Session covers the following:
 This has functions:
 - get_train_transforms - Transformation to be applied to training data
 - get_test_transforms - Transformation to be applied to test data
+
+#### resnet.py
+Contains the model definition
+
+#### main.py
+Contains train and test utility function
+
+#### session_11(final).ipynb
+Main Notebook which clones this repo and shows the working
